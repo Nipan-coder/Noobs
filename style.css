@@ -300,9 +300,9 @@ footer {
         font-size: 14px;
     }
 
-    .restaurant-grid {
+/*     .restaurant-grid {
         max-height: 230px;
-    }
+    } */
 
     .restaurant-card {
         display: flex;
